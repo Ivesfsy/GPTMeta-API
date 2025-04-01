@@ -1,4 +1,4 @@
-# 🚀 GPTMeta-API百万并发 - 508种模型支持
+# 🚀 GPTMeta-API百万并发 - 500多种模型支持
 
 [API平台](https://api.mygptmeta.com)
 
